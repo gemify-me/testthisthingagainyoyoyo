@@ -5,7 +5,7 @@ require 'testthisthingagainyoyoyo/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "testthisthingagainyoyoyo"
-  gem.version       = "0.0.2"
+  gem.version       = "0.0.3"
   gem.authors       = "Sunwoo Yang"
   gem.email         = "yangsunwoo@gmail.com"
   gem.description   = "akdgasd"
